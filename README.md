@@ -1,6 +1,6 @@
 # Ukrainian keyboard layout for macOS / Українська розкладка для macOS
 
-<img src="https://github.com/elmodos/ukrainian-unicode-macos/blob/bae97674cd7dd9a2e87defe3c2a5a7bcebc73e07/.github/images/image0.png"> Download and open `UkrainianUnicode.bundle`.
+<img src="https://github.com/elmodos/ukrainian-unicode-macos/blob/bae97674cd7dd9a2e87defe3c2a5a7bcebc73e07/.github/images/image0.png"> [Download](https://github.com/elmodos/ukrainian-unicode-macos/releases) and copy `UkrainianUnicode.bundle` to `~/Library/Leyboard Layouts/`.
 
 |||
 |-|-|
